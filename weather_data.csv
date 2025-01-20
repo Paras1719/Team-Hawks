@@ -1,0 +1,124 @@
+City,Temperature,Description
+india/Mumbai,30 °C,Haze.
+india/Delhi,21 °C,Sunny.
+india/Bangalore,26 °C,Passing clouds.
+india/Kolkata,24 °C,Haze.
+india/Chennai,29 °C,Broken clouds.
+india/Hyderabad,29 °C,Clear.
+india/Pune,27 °C,Sunny.
+india/Ahmadabad,28 °C,Clear.
+india/Surat,28 °C,Clear.
+india/Jaipur,24 °C,Clear.
+india/Lucknow,25 °C,Haze.
+india/Indore,26 °C,Scattered clouds.
+india/Coimbatore,27 °C,Overcast.
+india/Patna,21 °C,Haze.
+india/Visakhapatnam,29 °C,Sunny.
+india/Nashik,32 °C,Sunny.
+india/Bhopal,25 °C,Scattered clouds.
+india/Kochi,32 °C,Scattered clouds.
+india/Goa,31 °C,Panaji
+india/Vadodara,28 °C,Sunny.
+india/Madurai,28 °C,Partly sunny.
+india/Guwahati,24 °C,Haze.
+india/Thrissur,32 °C,Scattered clouds.
+india/Ludhiana,20 °C,Scattered clouds.
+india/Meerut,21 °C,Sunny.
+india/Ranchi,23 °C,Sunny.
+india/Agra,23 °C,Sunny.
+india/Varanasi,23 °C,Sunny.
+india/Gwalior,23 °C,Sunny.
+india/Jammu,16 °C,Sunny.
+india/Allahabad,24 °C,Sunny.
+india/Patiala,20 °C,Scattered clouds.
+india/Srinagar,7 °C,Haze.
+india/Siliguri,15 °C,Fog.
+india/Kanpur,25 °C,Haze.
+india/Dehradun,21 °C,Partly sunny.
+india/Dhanbad,25 °C,Sunny.
+india/Nellore,28 °C,Partly sunny.
+india/Tirunelveli,31 °C,Partly sunny.
+india/Durgapur,23 °C,Sunny.
+india/Vijayawada,29 °C,Scattered clouds.
+india/Chittorgarh,24 °C,Clear.
+india/Belgaum,31 °C,Fog.
+india/Kozhikode,32 °C,Scattered clouds.
+india/Khammam,20 °C,Sunny.
+india/Bhubaneswar,26 °C,Sunny.
+india/Jamshedpur,25 °C,Sunny.
+india/Warangal,27 °C,Sunny.
+india/Rajkot,27 °C,Haze.
+india/Faridabad,21 °C,Haze.
+india/Howrah,23 °C,Sunny.
+india/Sangli,32 °C,Sunny.
+india/Mangalore,31 °C,Scattered clouds.
+india/Chhapra,21 °C,Haze.
+india/Aligarh,21 °C,Haze.
+india/Bhilai,26 °C,Sunny.
+india/Moradabad,22 °C,Sunny.
+india/Jodhpur,24 °C,Clear.
+india/Kota,25 °C,Sunny.
+india/Chandrapur,27 °C,Sunny.
+india/Belgaum,31 °C,Fog.
+india/Gaya,21 °C,Haze.
+india/Sambalpur,26 °C,Sunny.
+india/Anantapur,29 °C,Scattered clouds.
+india/Thane,32 °C,Clear.
+india/Nanded,29 °C,Sunny.
+india/Jalgaon,26 °C,Scattered clouds.
+india/Khanna,20 °C,Scattered clouds.
+india/Karnal,19 °C,Scattered clouds.
+india/Alwar,24 °C,Clear.
+india/Raipur,26 °C,Sunny.
+india/Haridwar,21 °C,Partly sunny.
+india/Chittoor,19 °C,Partly sunny.
+india/Malappuram,30 °C,Scattered clouds.
+india/Nagercoil,32 °C,Scattered clouds.
+india/Sehore,25 °C,Scattered clouds.
+india/Dewas,26 °C,Scattered clouds.
+india/Bijnor,21 °C,Partly sunny.
+india/Unnao,25 °C,Haze.
+india/Nagaon,24 °C,Sunny.
+india/Sikar,24 °C,Clear.
+india/Churu,24 °C,Clear.
+india/Kottayam,32 °C,Scattered clouds.
+india/Madurai,28 °C,Partly sunny.
+india/Palakkad,27 °C,Overcast.
+india/Chhapra,21 °C,Haze.
+india/Fatehgarh,22 °C,Sunny.
+india/Asansol,25 °C,Sunny.
+india/Gurgaon,21 °C,Haze.
+india/Khagaria,20 °C,Sunny.
+india/Sikar,24 °C,Clear.
+india/Patiala,20 °C,Scattered clouds.
+india/Aligarh,21 °C,Haze.
+india/Puri,26 °C,Sunny.
+india/Manipur,18 °C,Imphal
+india/Beed,29 °C,Sunny.
+india/Anantapur,29 °C,Scattered clouds.
+india/Dibrugarh,24 °C,Sunny.
+india/Mathura,23 °C,Sunny.
+india/Imphal,18 °C,Sunny.
+india/Khandwa,26 °C,Scattered clouds.
+india/Jhansi,23 °C,Sunny.
+india/Nagapattinam,28 °C,Partly sunny.
+india/Chandrapur,27 °C,Sunny.
+india/Firozabad,23 °C,Sunny.
+india/Madhubani,20 °C,Sunny.
+india/Gorakhpur,14 °C,Fog.
+india/Karaikal,27 °C,Overcast.
+india/Chandigarh,21 °C,Haze.
+india/Chhapra,21 °C,Haze.
+india/Siwan,26 °C,Sunny.
+india/Tirunelveli,31 °C,Partly sunny.
+india/Hisar,18 °C,Passing clouds.
+india/Bhagalpur,20 °C,Sunny.
+india/Chandigarh,21 °C,Haze.
+india/Karur,28 °C,Partly sunny.
+india/Kolkata,24 °C,Haze.
+india/Noida,21 °C,Haze.
+india/Lucknow,25 °C,Haze.
+india/Raipur,26 °C,Sunny.
+india/Bhubaneswar,26 °C,Sunny.
+india/Rajkot,27 °C,Haze.
+india/Jaipur,24 °C,Clear.
